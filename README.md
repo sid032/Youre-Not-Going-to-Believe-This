@@ -1,10 +1,32 @@
-# Astro Starter Kit: Basics
+# You're Not Going to Believe This
 
-```sh
-npm create astro@latest -- --template basics
+**A memoir by Drew** - 22 autobiographical episodes spanning trauma, healing, and the inexplicable.
+
+## 📚 Project Structure
+
+```text
+/
+├── drew_knowledge_graph.html       # Interactive knowledge graph of life stories
+├── EDITORIAL_FRAMEWORK.md          # World-class developmental editing framework
+├── Feedback_For_Drew.md            # Complete feedback (short + in-depth)
+├── Mechanical_Changes_Changelog.txt # List of applied mechanical edits
+└── src/                            # Website source files
 ```
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## 🎯 Executive Summary
+
+Drew's manuscript is a hybrid memoir combining:
+- **22 stories** from 1970s-2020s
+- **Trauma-to-transcendence arc**: childhood abandonment → CBC stagehand → spiritual healer
+- **Geographic journey**: Winnipeg → Calgary → Vancouver → Latin America
+- **Paranormal claims**: UFOs, time shifts, energy work, healing hands
+
+## 🔧 Quick Links
+
+- **Read the knowledge graph**: Open `drew_knowledge_graph.html` in any browser
+- **Editorial guidance**: See `EDITORIAL_FRAMEWORK.md` for 7 development lenses
+- **Mechanical edits**: 10 typo/punctuation fixes in `Mechanical_Changes_Changelog.txt`
+- **Google Doc**: https://docs.google.com/document/d/1S89FasfUmRGZMgebhFtNzBsNFhgXWROx/edit (writer access enabled)
 
 ## 🚀 Project Structure
 
